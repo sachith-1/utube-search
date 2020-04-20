@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/utube-search/precache-manifest.cb435f3d0d9c194f6f90bcb377ad77f2.js"
+  "/utube-search/precache-manifest.7e9158bc7544d04f20da80d6cc00c425.js"
 );
 
 self.addEventListener('message', (event) => {
